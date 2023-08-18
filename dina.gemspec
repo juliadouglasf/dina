@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.license     = 'MIT'
   s.date        = '2023-06-21'
   s.summary     = "DINA ruby gem"
-  s.description = "Authenicate against DINA's Keycloak and access its models"
+  s.description = "Authenticate against DINA's Keycloak and access its models"
   s.authors     = ["David P. Shorthouse", "Julia Douglas Freitas"]
   s.email       = 'david.shorthouse@agr.gc.ca'
   s.homepage    = 'https://github.com/dshorthouse/dina'
